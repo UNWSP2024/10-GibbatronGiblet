@@ -51,4 +51,4 @@ main()
 
 
 #This program was written on 11/6/25 by Logan Gibson
-#
+#Its name is "Inaccurate Speedometer"
